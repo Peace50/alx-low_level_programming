@@ -2,6 +2,7 @@
 /**
   *main - Entry point
   *Description: 'print all numbers of base 16 in lower case'
+  *Return: always 0
   */
 int main(void)
 {
